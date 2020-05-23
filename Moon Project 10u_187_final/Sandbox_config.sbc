@@ -9,8 +9,8 @@
     <RefinerySpeedMultiplier>10</RefinerySpeedMultiplier>
     <OnlineMode>FRIENDS</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
-    <MaxFloatingObjects>56</MaxFloatingObjects>
-    <MaxBackupSaves>33</MaxBackupSaves>
+    <MaxFloatingObjects>129</MaxFloatingObjects>
+    <MaxBackupSaves>10</MaxBackupSaves>
     <MaxGridSize>0</MaxGridSize>
     <MaxBlocksPerPlayer>0</MaxBlocksPerPlayer>
     <TotalPCU>0</TotalPCU>
@@ -175,6 +175,46 @@
       <PublishedFileId>758597413</PublishedFileId>
       <IsDependency>true</IsDependency>
     </ModItem>
+    <ModItem FriendlyName="HoverEngine">
+      <Name>1225107070.sbm</Name>
+      <PublishedFileId>1225107070</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Big Smoke">
+      <Name>2085885820.sbm</Name>
+      <PublishedFileId>2085885820</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="AIS Cockpit">
+      <Name>407022451.sbm</Name>
+      <PublishedFileId>407022451</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="AdvancedFlyModule2.0">
+      <Name>2049208780.sbm</Name>
+      <PublishedFileId>2049208780</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Omni-Function Survival Vessel">
+      <Name>310421977.sbm</Name>
+      <PublishedFileId>310421977</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Planet 26 version: oremap">
+      <Name>2089070694.sbm</Name>
+      <PublishedFileId>2089070694</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Volumetric Nebulae Mod">
+      <Name>2008980273.sbm</Name>
+      <PublishedFileId>2008980273</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="_SD_The Sun">
+      <Name>2064904535.sbm</Name>
+      <PublishedFileId>2064904535</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="_SD_ShipSounds (update01)">
+      <Name>2085863438.sbm</Name>
+      <PublishedFileId>2085863438</PublishedFileId>
+    </ModItem>
+    <ModItem FriendlyName="Skybox New Donbass (Star Wolves 2 The Civil War)">
+      <Name>353248255.sbm</Name>
+      <PublishedFileId>353248255</PublishedFileId>
+    </ModItem>
     <ModItem FriendlyName="Viable Hydrogen">
       <Name>1905243833.sbm</Name>
       <PublishedFileId>1905243833</PublishedFileId>
@@ -290,10 +330,6 @@
     <ModItem FriendlyName="S - Moon Project Ancient Suits - (7 part of Moon Project)">
       <Name>1171480134.sbm</Name>
       <PublishedFileId>1171480134</PublishedFileId>
-    </ModItem>
-    <ModItem FriendlyName="S - Old Skybox - (5 part of Moon Project)">
-      <Name>859206845.sbm</Name>
-      <PublishedFileId>859206845</PublishedFileId>
     </ModItem>
     <ModItem FriendlyName="S - Moon Project AC Weapons  - (6 part of Moon Project)">
       <Name>1197416087.sbm</Name>
