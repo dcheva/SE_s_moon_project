@@ -10,14 +10,14 @@
           <EntityId>73281530574256567</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
           <PositionAndOrientation>
-            <Position x="63871.237889438693" y="12019.936580042769" z="-1821988.9268827243" />
-            <Forward x="-0.5937356" y="-0.766662" z="0.244350851" />
-            <Up x="-0.8026885" y="0.543066144" z="-0.246516436" />
+            <Position x="68733.404150413873" y="14956.561156379681" z="-1829553.2782591823" />
+            <Forward x="-0.8003792" y="-0.15151976" z="-0.5800301" />
+            <Up x="-0.307672352" y="0.9342124" z="0.18051292" />
             <Orientation>
-              <X>-0.435195565</X>
-              <Y>0.6578603</Y>
-              <Z>0.197665647</Z>
-              <W>0.5820248</W>
+              <X>0.008329769</X>
+              <Y>0.4581654</Y>
+              <Z>0.181175083</Z>
+              <W>0.870167</W>
             </Orientation>
           </PositionAndOrientation>
           <GridSizeEnum>Large</GridSizeEnum>
@@ -65,7 +65,7 @@
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>true</Enabled>
+              <Enabled>false</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorBlock</SubtypeName>
@@ -1060,7 +1060,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <IsDepressurizing>true</IsDepressurizing>
+              <IsDepressurizing>false</IsDepressurizing>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorCornerInv</SubtypeName>
@@ -1088,7 +1088,7 @@
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>true</Enabled>
+              <Enabled>false</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallMissileLauncher">
               <SubtypeName>LargeMissileLauncher</SubtypeName>
@@ -1260,7 +1260,7 @@
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>true</Enabled>
+              <Enabled>false</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHeavyBlockArmorBlock</SubtypeName>
@@ -1591,7 +1591,7 @@
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <IsStockpiling>false</IsStockpiling>
-              <FilledRatio>0.493124723</FilledRatio>
+              <FilledRatio>0.483606577</FilledRatio>
               <AutoRefill>false</AutoRefill>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -1824,7 +1824,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>7.755895</Amount>
+                          <Amount>7.360547</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -1848,7 +1848,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>7.755895</Capacity>
+              <Capacity>7.360547</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockInteriorWall</SubtypeName>
@@ -2753,7 +2753,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>7.754198</Amount>
+                          <Amount>7.362235</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -2777,7 +2777,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>7.754198</Capacity>
+              <Capacity>7.362235</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
@@ -3351,12 +3351,12 @@
               <ConnectedEntityId>111439254100676455</ConnectedEntityId>
               <MasterToSlaveTransform>
                 <Position x="0.011135626584291458" y="0.069776482880115509" z="-1.7997070550918579" />
-                <Forward x="0.00236101169" y="-0.0195302069" z="0.999807" />
-                <Up x="-0.9983339" y="0.0576014258" z="0.00348272361" />
+                <Forward x="0.00236102" y="-0.0195302181" z="0.999808431" />
+                <Up x="-0.998334646" y="0.0575996377" z="0.0034827115" />
                 <Orientation>
-                  <X>-0.686394</X>
-                  <Y>0.7271634</Y>
-                  <Z>0.007911879</Z>
+                  <X>-0.686394632</X>
+                  <Y>0.7271627</Y>
+                  <Z>0.007911869</Z>
                   <W>0.00584485</W>
                 </Orientation>
               </MasterToSlaveTransform>
@@ -3364,7 +3364,7 @@
               <IsMaster>false</IsMaster>
               <TradingEnabled>false</TradingEnabled>
               <AutoUnlockTime>0</AutoUnlockTime>
-              <TimeOfConnection>20376</TimeOfConnection>
+              <TimeOfConnection>58</TimeOfConnection>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
@@ -4054,7 +4054,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <IsDepressurizing>true</IsDepressurizing>
+              <IsDepressurizing>false</IsDepressurizing>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
               <SubtypeName>ConveyorTubeCurved</SubtypeName>
@@ -4831,7 +4831,7 @@
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <IsStockpiling>false</IsStockpiling>
-              <FilledRatio>0.5285102</FilledRatio>
+              <FilledRatio>0.503675163</FilledRatio>
               <AutoRefill>false</AutoRefill>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -5541,7 +5541,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <IsDepressurizing>false</IsDepressurizing>
+              <IsDepressurizing>true</IsDepressurizing>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Flat</SubtypeName>
@@ -5573,8 +5573,7 @@
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
-              <State>true</State>
-              <Opening>1.2</Opening>
+              <Opening>0</Opening>
               <OpenSound>ArcBlockDoorSmallOpen</OpenSound>
               <CloseSound>ArcBlockDoorSmallClose</CloseSound>
             </MyObjectBuilder_CubeBlock>
@@ -5715,7 +5714,8 @@
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
-              <Opening>0</Opening>
+              <State>true</State>
+              <Opening>1.2</Opening>
               <OpenSound>ArcBlockDoorSmallOpen</OpenSound>
               <CloseSound>ArcBlockDoorSmallClose</CloseSound>
             </MyObjectBuilder_CubeBlock>
@@ -5970,7 +5970,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>1.669233</Amount>
+                          <Amount>1.277814</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -5994,7 +5994,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>1.669233</Capacity>
+              <Capacity>1.277814</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Reactor">
               <SubtypeName>LargeBlockSmallGenerator</SubtypeName>
@@ -6010,7 +6010,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>1.669009</Amount>
+                          <Amount>1.27783</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -6034,7 +6034,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>1.669009</Capacity>
+              <Capacity>1.27783</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockInteriorWall</SubtypeName>
@@ -6065,7 +6065,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>1.669511</Amount>
+                          <Amount>1.278538</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -6089,7 +6089,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>1.669511</Capacity>
+              <Capacity>1.278538</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockSmallContainer</SubtypeName>
@@ -6302,7 +6302,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>0.669571</Amount>
+                          <Amount>0.278935</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -6326,7 +6326,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>0.669571</Capacity>
+              <Capacity>0.278935</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockInteriorWall</SubtypeName>
@@ -6846,7 +6846,7 @@
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>true</Enabled>
+              <Enabled>false</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
@@ -8659,8 +8659,8 @@
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
-              <Open>true</Open>
-              <CurrOpening>1</CurrOpening>
+              <Open>false</Open>
+              <CurrOpening>0</CurrOpening>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
@@ -8950,6 +8950,12 @@
               <ComponentContainer>
                 <Components>
                   <ComponentData>
+                    <TypeId>MyHierarchyComponentBase</TypeId>
+                    <Component xsi:type="MyObjectBuilder_HierarchyComponentBase">
+                      <Children />
+                    </Component>
+                  </ComponentData>
+                  <ComponentData>
                     <TypeId>MyInventoryBase</TypeId>
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items />
@@ -9017,9 +9023,11 @@
                   <Slot>
                     <Index>4</Index>
                     <Item />
-                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
-                      <Action>View</Action>
-                      <BlockEntityId>121047631057742051</BlockEntityId>
+                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
+                      <Action>Open_On</Action>
+                      <GridEntityId>0</GridEntityId>
+                      <BlockEntityId>75965469916724669</BlockEntityId>
+                      <GroupName>Парашюты</GroupName>
                     </Data>
                   </Slot>
                   <Slot>
@@ -9096,20 +9104,20 @@
                 <Slots />
               </BuildToolbar>
               <PilotRelativeWorld>
-                <Position x="-1.5802080631256104" y="-1.265215277671814" z="1.1832598447799683" />
-                <Forward x="0.896985" y="2.832574E-05" z="-0.442060947" />
-                <Up x="-5.556542E-06" y="1" z="5.280178E-05" />
+                <Position x="1.1028728485107422" y="-1.256980299949646" z="0.82282215356826782" />
+                <Forward x="-0.6206098" y="0.122340776" z="-0.7745167" />
+                <Up x="-0.01550048" y="0.985646248" z="0.168110609" />
                 <Orientation>
-                  <X>2.38853372E-05</X>
-                  <Y>-0.528175652</Y>
-                  <Z>-1.158518E-05</Z>
-                  <W>0.84913516</W>
+                  <X>0.07714161</X>
+                  <Y>0.326788634</Y>
+                  <Z>0.0350148641</Z>
+                  <W>0.9412929</W>
                 </Orientation>
               </PilotRelativeWorld>
               <PilotGunDefinition xsi:nil="true" />
               <IsInFirstPersonView>false</IsInFirstPersonView>
               <OxygenLevel>0</OxygenLevel>
-              <PilotJetpackEnabled xsi:nil="true" />
+              <PilotJetpackEnabled>false</PilotJetpackEnabled>
               <TextPanels>
                 <MySerializedTextPanelData>
                   <ChangeInterval>0</ChangeInterval>
@@ -9636,8 +9644,8 @@
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
-              <Open>true</Open>
-              <CurrOpening>1</CurrOpening>
+              <Open>false</Open>
+              <CurrOpening>0</CurrOpening>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_AirtightHangarDoor">
               <SubtypeName />
@@ -9653,8 +9661,8 @@
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
-              <Open>true</Open>
-              <CurrOpening>1</CurrOpening>
+              <Open>false</Open>
+              <CurrOpening>0</CurrOpening>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_AirtightHangarDoor">
               <SubtypeName />
@@ -9670,8 +9678,8 @@
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
-              <Open>true</Open>
-              <CurrOpening>1</CurrOpening>
+              <Open>false</Open>
+              <CurrOpening>0</CurrOpening>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorBlock</SubtypeName>
@@ -10300,7 +10308,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>7.586499</Amount>
+                          <Amount>7.194533</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -10324,7 +10332,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>7.586499</Capacity>
+              <Capacity>7.194533</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Reactor">
               <SubtypeName>LargeBlockSmallGenerator</SubtypeName>
@@ -10339,7 +10347,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>7.58677</Amount>
+                          <Amount>7.194806</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -10363,7 +10371,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>7.58677</Capacity>
+              <Capacity>7.194806</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockSmallContainer</SubtypeName>
@@ -10796,13 +10804,14 @@
                 </Components>
               </ComponentContainer>
               <CustomName>Парашютный люк 5</CustomName>
-              <ShowOnHUD>false</ShowOnHUD>
+              <ShowOnHUD>true</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
               <AutoDeploy>true</AutoDeploy>
+              <DeployHeight>5990.25732</DeployHeight>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Collector">
               <SubtypeName>Collector</SubtypeName>
@@ -11134,13 +11143,14 @@
                 </Components>
               </ComponentContainer>
               <CustomName>Парашютный люк 7</CustomName>
-              <ShowOnHUD>false</ShowOnHUD>
+              <ShowOnHUD>true</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
               <AutoDeploy>true</AutoDeploy>
+              <DeployHeight>5990.25732</DeployHeight>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorBlock</SubtypeName>
@@ -11214,13 +11224,14 @@
                 </Components>
               </ComponentContainer>
               <CustomName>Парашютный люк 6</CustomName>
-              <ShowOnHUD>false</ShowOnHUD>
+              <ShowOnHUD>true</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
               <AutoDeploy>true</AutoDeploy>
+              <DeployHeight>5990.25732</DeployHeight>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorBlock</SubtypeName>
@@ -11353,7 +11364,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99967766</CurrentStoredPower>
+              <CurrentStoredPower>2.999982</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -11544,7 +11555,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99967766</CurrentStoredPower>
+              <CurrentStoredPower>2.99998069</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -11563,7 +11574,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99967766</CurrentStoredPower>
+              <CurrentStoredPower>2.99997926</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -11582,7 +11593,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.9999876</CurrentStoredPower>
+              <CurrentStoredPower>2.99997926</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -11601,7 +11612,7 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99967766</CurrentStoredPower>
+              <CurrentStoredPower>2.99998045</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -12377,7 +12388,7 @@ Open             Close</PublicDescription>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99967766</CurrentStoredPower>
+              <CurrentStoredPower>2.99997759</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -12396,7 +12407,7 @@ Open             Close</PublicDescription>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99967766</CurrentStoredPower>
+              <CurrentStoredPower>2.99997759</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -12415,7 +12426,7 @@ Open             Close</PublicDescription>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99993563</CurrentStoredPower>
+              <CurrentStoredPower>2.9999814</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -12434,7 +12445,7 @@ Open             Close</PublicDescription>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99967766</CurrentStoredPower>
+              <CurrentStoredPower>2.999981</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -12454,7 +12465,7 @@ Open             Close</PublicDescription>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>2.99967766</CurrentStoredPower>
+              <CurrentStoredPower>2.99998164</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -12544,7 +12555,7 @@ Open             Close</PublicDescription>
                           <ItemId>1</ItemId>
                         </MyObjectBuilder_InventoryItem>
                       </Items>
-                      <nextItemId>3</nextItemId>
+                      <nextItemId>2</nextItemId>
                       <Volume>15.625</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -13813,13 +13824,14 @@ Open             Close</PublicDescription>
                 </Components>
               </ComponentContainer>
               <CustomName>Парашютный люк 4</CustomName>
-              <ShowOnHUD>false</ShowOnHUD>
+              <ShowOnHUD>true</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
               <AnyoneCanUse>false</AnyoneCanUse>
               <AutoDeploy>true</AutoDeploy>
+              <DeployHeight>5990.25732</DeployHeight>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
           <Skeleton>
@@ -13936,12 +13948,12 @@ Open             Close</PublicDescription>
               <BoneOffset x="127" y="167" z="112" />
             </BoneInfo>
             <BoneInfo>
-              <BonePosition x="-11" y="0" z="1" />
-              <BoneOffset x="127" y="168" z="127" />
-            </BoneInfo>
-            <BoneInfo>
               <BonePosition x="-11" y="-2" z="-1" />
               <BoneOffset x="164" y="124" z="127" />
+            </BoneInfo>
+            <BoneInfo>
+              <BonePosition x="-11" y="0" z="1" />
+              <BoneOffset x="127" y="168" z="127" />
             </BoneInfo>
             <BoneInfo>
               <BonePosition x="-8" y="5" z="-3" />
@@ -14004,6 +14016,8 @@ Open             Close</PublicDescription>
               <BoneOffset x="127" y="167" z="127" />
             </BoneInfo>
           </Skeleton>
+          <LinearVelocity x="74.31711" y="46.62964" z="-114.730255" />
+          <AngularVelocity x="-0.000128832136" y="-3.386529E-05" z="-7.68311947E-05" />
           <ZMirroxPlane x="-23" y="-4" z="0" />
           <ConveyorLines>
             <MyObjectBuilder_ConveyorLine>
@@ -15265,11 +15279,25 @@ Open             Close</PublicDescription>
           <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />
           <OxygenRooms>
-            <OxygenRoom OxygenAmount="5562.767">
+            <OxygenRoom OxygenAmount="7390.892">
               <StartingPosition>
                 <X>-39</X>
                 <Y>-6</Y>
                 <Z>-10</Z>
+              </StartingPosition>
+            </OxygenRoom>
+            <OxygenRoom OxygenAmount="1953.125">
+              <StartingPosition>
+                <X>-4</X>
+                <Y>0</Y>
+                <Z>-4</Z>
+              </StartingPosition>
+            </OxygenRoom>
+            <OxygenRoom OxygenAmount="1453.062">
+              <StartingPosition>
+                <X>-25</X>
+                <Y>-1</Y>
+                <Z>3</Z>
               </StartingPosition>
             </OxygenRoom>
             <OxygenRoom OxygenAmount="0">
@@ -15342,13 +15370,6 @@ Open             Close</PublicDescription>
                 <Z>4</Z>
               </StartingPosition>
             </OxygenRoom>
-            <OxygenRoom OxygenAmount="1828.125">
-              <StartingPosition>
-                <X>-9</X>
-                <Y>-1</Y>
-                <Z>0</Z>
-              </StartingPosition>
-            </OxygenRoom>
           </OxygenRooms>
         </CubeGrid>
         <CubeGrid>
@@ -15356,14 +15377,14 @@ Open             Close</PublicDescription>
           <EntityId>142851170388874386</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
           <PositionAndOrientation>
-            <Position x="63862.132908969943" y="12019.424373011519" z="-1821967.4425077243" />
-            <Forward x="-0.598785043" y="-0.7437639" z="0.297104985" />
-            <Up x="0.800031245" y="-0.538081765" z="0.2653632" />
+            <Position x="68713.487280296686" y="14949.892211067181" z="-1829543.100402737" />
+            <Forward x="-0.829752862" y="-0.166620433" z="-0.5326798" />
+            <Up x="0.2956806" y="-0.9406941" z="-0.16633442" />
             <Orientation>
-              <X>0.6703891</X>
-              <Y>0.4462409</Y>
-              <Z>0.5653489</Z>
-              <W>-0.178404123</W>
+              <X>0.483384</X>
+              <Y>8.32989754E-05</Y>
+              <Z>0.858304739</Z>
+              <W>-0.1722</W>
             </Orientation>
           </PositionAndOrientation>
           <GridSizeEnum>Small</GridSizeEnum>
@@ -15380,7 +15401,7 @@ Open             Close</PublicDescription>
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>17.885726</Amount>
+                          <Amount>17.500287</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -15404,7 +15425,7 @@ Open             Close</PublicDescription>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Capacity>17.8857269</Capacity>
+              <Capacity>17.500288</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>SmallBlockLargeContainer</SubtypeName>
@@ -15699,7 +15720,7 @@ Open             Close</PublicDescription>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
+              <Enabled>true</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>SmallBlockSmallThrust</SubtypeName>
@@ -15711,7 +15732,7 @@ Open             Close</PublicDescription>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
+              <Enabled>true</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>SmallBlockSmallThrust</SubtypeName>
@@ -15792,7 +15813,7 @@ Open             Close</PublicDescription>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
+              <Enabled>true</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
@@ -15832,7 +15853,7 @@ Open             Close</PublicDescription>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
+              <Enabled>true</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
@@ -16093,7 +16114,7 @@ Open             Close</PublicDescription>
               <UseSingleWeaponMode>false</UseSingleWeaponMode>
               <Toolbar>
                 <ToolbarType>Character</ToolbarType>
-                <SelectedSlot>3</SelectedSlot>
+                <SelectedSlot xsi:nil="true" />
                 <Slots>
                   <Slot>
                     <Index>0</Index>
@@ -16192,7 +16213,7 @@ Open             Close</PublicDescription>
               <PilotRelativeWorld>
                 <Position x="0.00060802954249084" y="0.85105174779891968" z="-2.8949105739593506" />
                 <Forward x="-0.07140344" y="0.507454634" z="0.858714938" />
-                <Up x="0.1761398" y="-0.840967834" z="0.5116134" />
+                <Up x="0.176139772" y="-0.8409677" z="0.51161325" />
                 <Orientation>
                   <X>0.959355831</X>
                   <Y>0.09483566</Y>
@@ -16201,7 +16222,7 @@ Open             Close</PublicDescription>
                 </Orientation>
               </PilotRelativeWorld>
               <PilotGunDefinition xsi:nil="true" />
-              <IsInFirstPersonView>false</IsInFirstPersonView>
+              <IsInFirstPersonView>true</IsInFirstPersonView>
               <OxygenLevel>1</OxygenLevel>
               <PilotJetpackEnabled xsi:nil="true" />
               <TextPanels>
@@ -16744,7 +16765,7 @@ Open             Close</PublicDescription>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
+              <Enabled>true</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
@@ -17074,38 +17095,38 @@ Open             Close</PublicDescription>
               <ConnectedEntityId>120239708493481138</ConnectedEntityId>
               <MasterToSlaveTransform>
                 <Position x="0.011135626584291458" y="0.069776482880115509" z="-1.7997070550918579" />
-                <Forward x="0.00236101169" y="-0.0195302069" z="0.999807" />
-                <Up x="-0.9983339" y="0.0576014258" z="0.00348272361" />
+                <Forward x="0.00236102" y="-0.0195302181" z="0.999808431" />
+                <Up x="-0.998334646" y="0.0575996377" z="0.0034827115" />
                 <Orientation>
-                  <X>-0.686394</X>
-                  <Y>0.7271634</Y>
-                  <Z>0.007911879</Z>
+                  <X>-0.686394632</X>
+                  <Y>0.7271627</Y>
+                  <Z>0.007911869</Z>
                   <W>0.00584485</W>
                 </Orientation>
               </MasterToSlaveTransform>
               <MasterToSlaveGrid>
                 <OrientationOffset>
-                  <X>-0.489486724</X>
-                  <Y>0.508587837</Y>
-                  <Z>0.519776762</Z>
-                  <W>-0.481220841</W>
+                  <X>-0.489487529</X>
+                  <Y>0.508578539</Y>
+                  <Z>0.51978457</Z>
+                  <W>-0.4812212</W>
                 </OrientationOffset>
                 <PositionOffset>
-                  <X>11.04832</X>
-                  <Y>-7.985994</Y>
-                  <Z>-6.73405027</Z>
+                  <X>11.0480194</X>
+                  <Y>-7.986048</Y>
+                  <Z>-6.734661</Z>
                 </PositionOffset>
                 <OrientationAsVector>
-                  <X>-0.489486724</X>
-                  <Y>0.508587837</Y>
-                  <Z>0.519776762</Z>
-                  <W>-0.481220841</W>
+                  <X>-0.489487529</X>
+                  <Y>0.508578539</Y>
+                  <Z>0.51978457</Z>
+                  <W>-0.4812212</W>
                 </OrientationAsVector>
               </MasterToSlaveGrid>
               <IsMaster>true</IsMaster>
               <TradingEnabled>false</TradingEnabled>
               <AutoUnlockTime>0</AutoUnlockTime>
-              <TimeOfConnection>20376</TimeOfConnection>
+              <TimeOfConnection>58</TimeOfConnection>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
@@ -17536,7 +17557,7 @@ Open             Close</PublicDescription>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
+              <Enabled>true</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
               <SubtypeName>ConveyorFrameMedium</SubtypeName>
@@ -17558,7 +17579,7 @@ Open             Close</PublicDescription>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
+              <Enabled>true</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>SmallBlockSmallThrust</SubtypeName>
@@ -17572,7 +17593,7 @@ Open             Close</PublicDescription>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
+              <Enabled>true</Enabled>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -17642,6 +17663,8 @@ Open             Close</PublicDescription>
               <BoneOffset x="170" y="127" z="153" />
             </BoneInfo>
           </Skeleton>
+          <LinearVelocity x="74.25894" y="46.845047" z="-114.721893" />
+          <AngularVelocity x="0.00356011745" y="-0.000136821531" z="0.0180354565" />
           <XMirroxPlane x="-15" y="9" z="23" />
           <ConveyorLines>
             <MyObjectBuilder_ConveyorLine>
