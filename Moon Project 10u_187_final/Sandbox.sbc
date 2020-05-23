@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>5544665680000</ElapsedGameTime>
+  <ElapsedGameTime>5543627280000</ElapsedGameTime>
   <SessionName>Moon Project 10u_187_final</SessionName>
   <SpectatorPosition>
     <Position x="30470.553027530048" y="21910.105789292262" z="4025.81565039477" />
@@ -21,7 +21,7 @@
   <ControlledObject>140251675261579694</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-23T22:11:34.7555921+03:00</LastSaveTime>
+  <LastSaveTime>2020-05-23T22:09:45.8920449+03:00</LastSaveTime>
   <SpectatorDistance>9.25372</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -32344,7 +32344,7 @@
         <long>75249976864264105</long>
         <long>140251675261579694</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-23T22:11:34.7555921+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-23T22:09:45.8920449+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>30596.648150332745</X>
@@ -33241,98 +33241,98 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855873</PlayerId>
-          <Timer>782</Timer>
+          <Timer>890</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>134149199656814358</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855911</PlayerId>
-          <Timer>4</Timer>
+          <Timer>112</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855910</PlayerId>
-          <Timer>1925</Timer>
+          <Timer>2033</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855913</PlayerId>
-          <Timer>622</Timer>
+          <Timer>730</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855915</PlayerId>
-          <Timer>137</Timer>
+          <Timer>245</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855916</PlayerId>
-          <Timer>2286</Timer>
+          <Timer>2394</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855919</PlayerId>
-          <Timer>41</Timer>
+          <Timer>149</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855920</PlayerId>
-          <Timer>629</Timer>
+          <Timer>737</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855917</PlayerId>
-          <Timer>1493</Timer>
+          <Timer>26</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855918</PlayerId>
-          <Timer>953</Timer>
+          <Timer>1061</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855923</PlayerId>
-          <Timer>629</Timer>
+          <Timer>43</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855921</PlayerId>
-          <Timer>1434</Timer>
+          <Timer>1542</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855925</PlayerId>
-          <Timer>1012</Timer>
+          <Timer>1120</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
         </PlayerContainerData>
         <PlayerContainerData>
           <PlayerId>144115188075855926</PlayerId>
-          <Timer>1148</Timer>
+          <Timer>1256</Timer>
           <Active>true</Active>
           <Competetive>true</Competetive>
           <ContainerId>0</ContainerId>
@@ -66359,7 +66359,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>107016</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>118866</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
