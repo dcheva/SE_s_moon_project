@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>79656320000</ElapsedGameTime>
+  <ElapsedGameTime>86689120000</ElapsedGameTime>
   <SessionName>Зеленая станция 2020-05-23 22:16</SessionName>
   <SpectatorPosition>
     <Position x="-442.86686847011356" y="127.90940286241354" z="-124.18989825696258" />
@@ -16,13 +16,13 @@
   </SpectatorPosition>
   <SpectatorSpeed x="0.1" y="1" />
   <SpectatorIsLightOn>false</SpectatorIsLightOn>
-  <CameraController>Entity</CameraController>
-  <CameraEntity>127011633180669357</CameraEntity>
-  <ControlledObject>127011633180669357</ControlledObject>
+  <CameraController>ThirdPersonSpectator</CameraController>
+  <CameraEntity>0</CameraEntity>
+  <ControlledObject>75965469916724669</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-24T00:10:05.4072027+03:00</LastSaveTime>
-  <SpectatorDistance>33.54446</SpectatorDistance>
+  <LastSaveTime>2020-05-24T00:22:18.9172296+03:00</LastSaveTime>
+  <SpectatorDistance>96.93574</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
     <SelectedSlot xsi:nil="true" />
@@ -87,7 +87,7 @@
         <Index>8</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="MiAtmoThrust01" />
+          <DefinitionId Type="MyObjectBuilder_Parachute" Subtype="LgParachute" />
         </Data>
       </Slot>
     </Slots>
@@ -160,7 +160,7 @@
   <ControlledEntities>
     <dictionary>
       <item>
-        <Key>127011633180669357</Key>
+        <Key>75965469916724669</Key>
         <Value>
           <ClientId>76561198412322587</ClientId>
           <SerialId>0</SerialId>
@@ -168,6 +168,13 @@
       </item>
       <item>
         <Key>142851170388874386</Key>
+        <Value>
+          <ClientId>76561198412322587</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+      <item>
+        <Key>73281530574256567</Key>
         <Value>
           <ClientId>76561198412322587</ClientId>
           <SerialId>0</SerialId>
@@ -30857,7 +30864,7 @@
       <SavedCharacters>
         <long>95826874364924781</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-24T00:10:05.4072027+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-24T00:22:18.9182274+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition xsi:nil="true" />
       <ActiveContracts />
@@ -31149,7 +31156,7 @@
                 <Index>8</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Thrust" Subtype="MiAtmoThrust01" />
+                  <DefinitionId Type="MyObjectBuilder_Parachute" Subtype="LgParachute" />
                 </Data>
               </Slot>
             </Slots>
@@ -31168,7 +31175,7 @@
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="127011633180669357">
               <IsFirstPerson>false</IsFirstPerson>
-              <Distance>33.544461192512266</Distance>
+              <Distance>44.477999735983381</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="75965469916724669">
@@ -31430,15 +31437,20 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855873</PlayerId>
-          <Timer>454</Timer>
+          <Timer>410</Timer>
           <Active>true</Active>
           <Competetive>false</Competetive>
-          <ContainerId>0</ContainerId>
+          <ContainerId>91310543035786317</ContainerId>
         </PlayerContainerData>
       </PlayerData>
       <GPSForRemoval />
-      <EntitiesForRemoval />
-      <ContainerIdSmall>4</ContainerIdSmall>
+      <EntitiesForRemoval>
+        <MyEntityForRemoval>
+          <TimeLeft>621</TimeLeft>
+          <EntityId>118586964213662793</EntityId>
+        </MyEntityForRemoval>
+      </EntitiesForRemoval>
+      <ContainerIdSmall>5</ContainerIdSmall>
       <ContainerIdLarge>1</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SessionComponentContractSystem">
@@ -59904,7 +59916,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>27483</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>40000</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -60311,6 +60323,7 @@
     <string>Models\Cubes\Large\InteriorTurret.mwm</string>
     <string>Models\Cubes\Large\LandingGear.mwm</string>
     <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_lerge_atmo.mwm</string>
+    <string>Models\Cubes\Large\ParachuteHatch_Large.mwm</string>
     <string>Models\Cubes\Large\Collector.mwm</string>
     <string>Models\Cubes\Large\OxygenGenerator.mwm</string>
     <string>Models\Cubes\Large\LCDPanel.mwm</string>
@@ -60339,12 +60352,12 @@
     <string>Models\Cubes\Large\Armor\CornerTriangleRightPlate.mwm</string>
     <string>Models\Cubes\Large\InteriorWallBottom.mwm</string>
     <string>Models\Cubes\Large\Armor\CornerTriangleLeftPlate.mwm</string>
-    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\InvFaceTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlate.mwm</string>
     <string>Models\Cubes\Large\InteriorWallTop.mwm</string>
     <string>Models\Cubes\Large\Armor\SlopePlateCorner2BaseTop.mwm</string>
+    <string>Models\Cubes\Large\Armor\FaceTrianglePlate.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseTop.mwm</string>
     <string>Models\Cubes\Large\InteriorWallSide.mwm</string>
     <string>Models\Cubes\Large\Armor\SquarePlateSlope2BaseRight.mwm</string>
