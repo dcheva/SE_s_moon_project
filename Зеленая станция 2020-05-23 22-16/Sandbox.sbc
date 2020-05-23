@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>145473680000</ElapsedGameTime>
+  <ElapsedGameTime>154076880000</ElapsedGameTime>
   <SessionName>Зеленая станция 2020-05-23 22:16</SessionName>
   <SpectatorPosition>
     <Position x="80248.265554622121" y="13286.029017144048" z="-1844454.2251372065" />
@@ -21,11 +21,11 @@
   <ControlledObject>118170997342784356</ControlledObject>
   <Password />
   <Description />
-  <LastSaveTime>2020-05-24T01:11:32.8600191+03:00</LastSaveTime>
-  <SpectatorDistance>56.77941</SpectatorDistance>
+  <LastSaveTime>2020-05-24T01:26:32.861361+03:00</LastSaveTime>
+  <SpectatorDistance>75.52037</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
-    <SelectedSlot>7</SelectedSlot>
+    <SelectedSlot>2</SelectedSlot>
     <Slots>
       <Slot>
         <Index>0</Index>
@@ -59,21 +59,21 @@
         <Index>4</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Assembler" Subtype="BasicAssembler" />
+          <DefinitionId Type="MyObjectBuilder_Door" Subtype="" />
         </Data>
       </Slot>
       <Slot>
         <Index>5</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_Refinery" Subtype="Blast Furnace" />
+          <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="LargeBlockBatteryBlock" />
         </Data>
       </Slot>
       <Slot>
         <Index>6</Index>
         <Item />
         <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-          <DefinitionId Type="MyObjectBuilder_WindTurbine" Subtype="LargeBlockWindTurbine" />
+          <DefinitionId Type="MyObjectBuilder_SurvivalKit" Subtype="SurvivalKitLarge" />
         </Data>
       </Slot>
       <Slot>
@@ -29948,7 +29948,7 @@
         <long>95826874364924781</long>
         <long>118170997342784356</long>
       </SavedCharacters>
-      <LastLogoutTime>2020-05-24T01:11:32.8610157+03:00</LastLogoutTime>
+      <LastLogoutTime>2020-05-24T01:26:32.861361+03:00</LastLogoutTime>
       <RespawnShips />
       <LastDeathPosition>
         <X>-316.91843160451435</X>
@@ -30216,21 +30216,21 @@
                 <Index>4</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Assembler" Subtype="BasicAssembler" />
+                  <DefinitionId Type="MyObjectBuilder_Door" Subtype="" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>5</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_Refinery" Subtype="Blast Furnace" />
+                  <DefinitionId Type="MyObjectBuilder_BatteryBlock" Subtype="LargeBlockBatteryBlock" />
                 </Data>
               </Slot>
               <Slot>
                 <Index>6</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
-                  <DefinitionId Type="MyObjectBuilder_WindTurbine" Subtype="LargeBlockWindTurbine" />
+                  <DefinitionId Type="MyObjectBuilder_SurvivalKit" Subtype="SurvivalKitLarge" />
                 </Data>
               </Slot>
               <Slot>
@@ -30265,13 +30265,13 @@
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="127011633180669357">
               <IsFirstPerson>true</IsFirstPerson>
-              <Distance>43.016994462323609</Distance>
+              <Distance>56.779411032976938</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="75965469916724669">
               <IsFirstPerson>false</IsFirstPerson>
-              <Distance>56.779411032976938</Distance>
-              <HeadAngle x="0" y="0" />
+              <Distance>75.52036677571337</Distance>
+              <HeadAngle x="29.08231" y="145.411209" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="118170997342784356">
               <IsFirstPerson>true</IsFirstPerson>
@@ -30458,58 +30458,6 @@
               <contractId>0</contractId>
               <DisplayName />
             </Entry>
-            <Entry>
-              <name>Неизвестный сигнал 6</name>
-              <description />
-              <coords>
-                <X>83688.52198434688</X>
-                <Y>16146.972801120039</Y>
-                <Z>-1849107.8475381283</Z>
-              </coords>
-              <isFinal>true</isFinal>
-              <showOnHud>true</showOnHud>
-              <alwaysVisible>true</alwaysVisible>
-              <color>
-                <PackedValue>4281335725</PackedValue>
-                <X>173</X>
-                <Y>255</Y>
-                <Z>47</Z>
-                <R>173</R>
-                <G>255</G>
-                <B>47</B>
-                <A>255</A>
-              </color>
-              <entityId>81182399334328376</entityId>
-              <isObjective>false</isObjective>
-              <contractId>0</contractId>
-              <DisplayName>Неизвестный сигнал</DisplayName>
-            </Entry>
-            <Entry>
-              <name>Место смерти - 24/05/2020 01:06:30</name>
-              <description />
-              <coords>
-                <X>-317.31950885947481</X>
-                <Y>146.24939334780538</Y>
-                <Z>-203.80985634490753</Z>
-              </coords>
-              <isFinal>true</isFinal>
-              <showOnHud>true</showOnHud>
-              <alwaysVisible>true</alwaysVisible>
-              <color>
-                <PackedValue>4294035829</PackedValue>
-                <X>117</X>
-                <Y>201</Y>
-                <Z>241</Z>
-                <R>117</R>
-                <G>201</G>
-                <B>241</B>
-                <A>255</A>
-              </color>
-              <entityId>88674046704135746</entityId>
-              <isObjective>false</isObjective>
-              <contractId>0</contractId>
-              <DisplayName>Место смерти</DisplayName>
-            </Entry>
           </Entries>
         </Value>
       </item>
@@ -30584,19 +30532,14 @@
       <PlayerData>
         <PlayerContainerData>
           <PlayerId>144115188075855873</PlayerId>
-          <Timer>861</Timer>
-          <Active>false</Active>
+          <Timer>132</Timer>
+          <Active>true</Active>
           <Competetive>false</Competetive>
           <ContainerId>81182399334328376</ContainerId>
         </PlayerContainerData>
       </PlayerData>
       <GPSForRemoval />
-      <EntitiesForRemoval>
-        <MyEntityForRemoval>
-          <TimeLeft>167</TimeLeft>
-          <EntityId>116215787246164074</EntityId>
-        </MyEntityForRemoval>
-      </EntitiesForRemoval>
+      <EntitiesForRemoval />
       <ContainerIdSmall>7</ContainerIdSmall>
       <ContainerIdLarge>1</ContainerIdLarge>
     </MyObjectBuilder_SessionComponent>
@@ -58956,7 +58899,7 @@
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
-      <TimeSinceLastEventInMs>55716</TimeSinceLastEventInMs>
+      <TimeSinceLastEventInMs>111783</TimeSinceLastEventInMs>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_TradingManager" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
@@ -59341,6 +59284,15 @@
     <string>Models\Cubes\Small\LandingGear.mwm</string>
     <string>Models\Cubes\Small\light.mwm</string>
     <string>Models\Cubes\Small\ConveyorFrameMedium.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_small_movemain.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_small_atmo_move.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_lerge_movemain.mwm</string>
+    <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_lerge_atmo_move.mwm</string>
+    <string>Models\Cubes\Large\Armor\SquarePlateConstruction_1.mwm</string>
+    <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
+    <string>Models\Cubes\Large\Connector.mwm</string>
+    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
+    <string>Models\Cubes\Large\SurvivalKit.mwm</string>
     <string>Models\Cubes\Large\ThrustLarge.mwm</string>
     <string>Models\Cubes\Large\ThrustSmall.mwm</string>
     <string>Models\Cubes\Large\SolarPanel.mwm</string>
@@ -59353,7 +59305,6 @@
     <string>Models\Cubes\Large\RocketLauncher.mwm</string>
     <string>Models\Cubes\Large\light.mwm</string>
     <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_small_atmo.mwm</string>
-    <string>Models\Cubes\Large\CargoContainerSmall.mwm</string>
     <string>Models\Cubes\Large\gyroscope.mwm</string>
     <string>Models\Cubes\Large\Ramp.mwm</string>
     <string>Models\Cubes\Large\OxygenStorage.mwm</string>
@@ -59363,9 +59314,7 @@
     <string>Models\Cubes\Large\TimerBlock.mwm</string>
     <string>Models\Cubes\Large\GatlingTurret.mwm</string>
     <string>Models\Cubes\Large\Window1x1Flat.mwm</string>
-    <string>Models\Cubes\Large\Connector.mwm</string>
     <string>Models\Cubes\Large\antenna.mwm</string>
-    <string>Models\Cubes\Large\BatteryLarge.mwm</string>
     <string>Models\Cubes\Large\Window1x2Flat.mwm</string>
     <string>Models\Cubes\Large\door.mwm</string>
     <string>Models\Cubes\Large\Window1x1FlatInv.mwm</string>
@@ -59387,11 +59336,6 @@
     <string>Models\Cubes\Large\LCDPanel.mwm</string>
     <string>Models\Cubes\Large\ButtonPanel.mwm</string>
     <string>Models\Cubes\Large\Camera.mwm</string>
-    <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_small_movemain.mwm</string>
-    <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_small_atmo_move.mwm</string>
-    <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_lerge_movemain.mwm</string>
-    <string>D:\Steam\steamapps\workshop\content\244850\584812855\364029076276955565_legacy.bin\Models\Cubes\Large\milano_large_lerge_atmo_move.mwm</string>
-    <string>Models\Cubes\Large\Armor\SquarePlateConstruction_1.mwm</string>
   </VicinityModelsCache>
   <VicinityArmorModelsCache>
     <string>Models\Cubes\Small\Armor\SquarePlate.mwm</string>
@@ -59429,9 +59373,9 @@
   </VicinityArmorModelsCache>
   <VicinityVoxelCache>
     <string>Stone_01</string>
-    <string>Sand_02</string>
     <string>DarinusIce</string>
     <string>Stone</string>
+    <string>Sand_02</string>
     <string>Grass_old DOC</string>
     <string>TritonStone</string>
     <string>Nickel_01</string>
